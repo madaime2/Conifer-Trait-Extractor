@@ -26,9 +26,9 @@ Outputs three CSV files:
 
 | Dataset | Contents |
 |---|---|
-| `dataset_A_text_evidenced.csv` | Only values extracted from the source text |
-| `dataset_B_augmented.csv` | Dataset A plus Kew, IUCN, and family/genus rules |
-| `dataset_C_sourced.csv` | Dataset B with a column indicating each value's source |
+| "dataset_A_text_evidenced.csv" | Only values extracted from the source text |
+| "dataset_B_augmented.csv" | Dataset A plus Kew, IUCN, and family/genus rules |
+| "dataset_C_sourced.csv" | Dataset B with a column indicating each value's source |
 
 Plus a JSONL file with the original evidence reported for every extracted value.
 
@@ -36,8 +36,7 @@ Plus a JSONL file with the original evidence reported for every extracted value.
 
 - Python 3.9+
 - An OpenAI API key
-- (Optional) An IUCN Red List API token for conservation status
-- The packages listed in `requirements.txt`
+- The packages listed in "requirements.txt"
 
 To run locally:
 
