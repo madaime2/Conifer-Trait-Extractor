@@ -43,8 +43,7 @@ To run locally:
 
 ```bash
 pip install -r requirements.txt
-export OPENAI_API_KEY="your-key-here"
-export IUCN_API_TOKEN="your-token-here"   # optional
+export OPENAI_API_KEY="Add-Here"
 python conifers_extractor.py
 ```
 
