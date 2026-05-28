@@ -67,7 +67,7 @@ genome size / ploidy depend on what is available in Kew C-values.
 If you use this code/method, please cite:
 
 > Adaimé, M.-É. (2026). Conifer Trait Matrix [Software]. Smithsonian
-> Institution Data Science Lab.
+> Institution.
 > https://github.com/madaime2
 
 ## Contact
