@@ -1,7 +1,7 @@
-Building a Conifer Trait Matrix Using Large Language Models
+# Building a Conifer Trait Matrix Using Large Language Models
 
 <p align="center">
-  <img src="https://github.com/madaime2/Conifer-Trait-Extractor/blob/main/Figures_LLM_Conifer_Project/PCA_Conifer_LLM.png/" width="800" title="hover text">
+  <img src="https://github.com/madaime2/Conifer-Trait-Extractor/blob/main/Figures_LLM_Conifer_Project/PCA_Conifer_LLM.png/" width="500" title="hover text">
 </p>
 
 # Conifer Trait Matrix
